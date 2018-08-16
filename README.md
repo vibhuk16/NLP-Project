@@ -1,2 +1,3 @@
 # NLP-Project
-Applied deep learning- NLP Project
+NLP Project- Sentiment Analysis
+
